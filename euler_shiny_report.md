@@ -1,15 +1,4 @@
 
----
-title: "Método de Euler con Shiny"
-author: "Abigail Godoy Araujo A01709167, Montserrat Carrera Leal A01713040"
-date: "2 de Noviembre del 2025"
-output:
-  pdf_document: default
-  html_document:
-    theme: darkly
-    highlight: tango
----
-
 # Método de Euler con Shiny
 
 En este reporte se presenta la implementación y el análisis del método de Euler explícito para poder resolver ecuaciones diferenciales ordinarias de la forma $y'(t) = f(t, y)$. 
